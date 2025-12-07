@@ -44,7 +44,7 @@ An AI-powered recycling assistant that helps users identify whether items are re
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/RecycleHelper.git](https://github.com/djain2405/EcoSnap-RecycleHelper.git)
+   git clone https://github.com/djain2405/EcoSnap-RecycleHelper.git
    cd final_iOS
    ```
 
