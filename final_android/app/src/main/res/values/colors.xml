@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App launcher icon background color (green for recycling theme) -->
+    <color name="ic_launcher_background">#4CAF50</color>
+
+    <!-- Material Design 3 default colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
